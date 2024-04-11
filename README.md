@@ -1,6 +1,6 @@
 # quarkon-runtime
 
-The Quarkon runtime is a library that provides a runtime environment for Quarkon programs. The Lexer and  Parser are written in Python and the runtime is written in Rust.
+The Quarkon runtime is a library that provides a runtime environment for Quarkon programs. The Lexer and  Parser are written in Python and the runtime is written in C++.
 
 ## Usage
 
@@ -34,10 +34,10 @@ You can read the language syntax in the [Syntax repository.](https://github.com/
 ## Technologies
 
 - Python 3
-- Rust
+- C++
 
 ## Notes
 
 - I'm a student, not an expert, so if there's a problem or anything, I'd love to hear from you.
 
-- In the future, the Lexer and Parser will also be written in Rust.
+- In the future, the Lexer and Parser will also be written in C++.
